@@ -2,7 +2,7 @@
   <h1>ESP32-C6-Touch-LCD-1.47</h1>
   <p><strong>ESP32-C6 1.47-inch 172 × 320 capacitive touch LCD development board examples and firmware</strong></p>
   <p><strong>English</strong> | <a href="README_ZH.md">简体中文</a></p>
-  <p><a href="https://github.com/waveshareteam/ESP32-C6-Touch-LCD-1.47/actions/workflows/build.yml"><img alt="Build" src="https://github.com/waveshareteam/ESP32-C6-Touch-LCD-1.47/actions/workflows/build.yml/badge.svg"></a> <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/waveshareteam/ESP32-C6-Touch-LCD-1.47"></a></p>
+  <p><a href="https://github.com/waveshareteam/ESP32-C6-Touch-LCD-1.47/actions/workflows/build.yml"><img alt="Build" src="https://github.com/waveshareteam/ESP32-C6-Touch-LCD-1.47/actions/workflows/build.yml/badge.svg"></a> <a href="https://github.com/waveshareteam/ESP32-C6-Touch-LCD-1.47/releases/latest"><img alt="Latest Release" src="https://img.shields.io/github/v/release/waveshareteam/ESP32-C6-Touch-LCD-1.47"></a> <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/waveshareteam/ESP32-C6-Touch-LCD-1.47"></a></p>
   <p><a href="https://www.waveshare.com/esp32-c6-touch-lcd-1.47.htm">🛒 Product</a> &middot; <a href="firmware/">📦 Firmware</a> &middot; <a href="examples/esp-idf/">🧩 ESP-IDF</a> &middot; <a href="examples/arduino/examples/">🔧 Arduino</a> &middot; <a href="https://docs.waveshare.com/ESP32-C6-Touch-LCD-1.47">📖 Documentation</a></p>
   <p><img src="docs/images/ESP32-C6-Touch-LCD-1.47.webp" alt="ESP32-C6-Touch-LCD-1.47 development board" width="500"></p>
 </div>

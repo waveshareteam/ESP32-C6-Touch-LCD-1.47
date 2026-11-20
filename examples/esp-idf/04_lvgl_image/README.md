@@ -4,7 +4,7 @@
 
 ## What It Does
 
-This example demonstrates 04_lvgl_image on the ESP32-C6-Touch-LCD-1.47 board.
+This example initializes the LCD and displays the bundled image through LVGL.
 
 ## Hardware Required
 
@@ -18,7 +18,7 @@ idf.py set-target esp32c6 build flash monitor
 
 ## Expected Result
 
-The example output is shown on the LCD or serial monitor according to its function.
+The LCD displays the bundled image.
 
 ## Troubleshooting
 
