@@ -63,7 +63,7 @@ Libraries used by the sketches are bundled in [`examples/arduino/libraries`](exa
 
 - [Product page](https://www.waveshare.com/esp32-c6-touch-lcd-1.47.htm)
 - [Wiki](https://docs.waveshare.com/ESP32-C6-Touch-LCD-1.47)
-- [Schematic and hardware resources](https://files.waveshare.com/wiki/ESP32-C6-Touch-LCD-1.47/ESP32-C6-Touch-LCD-1.47-Schematic.pdf)
+- [Schematic (PDF)](hardware/schematic/ESP32-C6-Touch-LCD-1.47-Schematic-20261117.pdf)
 
 ## 🤝 Support
 
