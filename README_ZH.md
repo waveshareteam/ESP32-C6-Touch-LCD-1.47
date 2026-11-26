@@ -35,7 +35,7 @@ ESP32-C6-Touch-LCD-1.47 是一块基于 ESP32-C6FH8 的开发板，集成 1.47 �
 | [02_sd_card_test](examples/esp-idf/02_sd_card_test/) | TF 卡读写 |
 | [03_lvgl_example](examples/esp-idf/03_lvgl_example/) | LVGL 显示与触摸 |
 | [04_lvgl_image](examples/esp-idf/04_lvgl_image/) | LVGL 图片显示 |
-| [factory](examples/factory/) | 出厂演示源码 |
+| [01_factory](examples/factory/) | 出厂演示与触摸测试 |
 
 ### Arduino
 

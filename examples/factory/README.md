@@ -1,4 +1,4 @@
-# factory
+# 01 Factory Demo
 
 [English](README.md) | [简体中文](README_ZH.md)
 
@@ -18,8 +18,8 @@ idf.py set-target esp32c6 build flash monitor
 
 ## Expected Result
 
-After flashing, the board starts the factory demonstration UI on the LCD.
+The LCD starts in touchscreen test mode. Tap or drag to draw on the display, then press BOOT to enter the factory demo interface.
 
 ## Troubleshooting
 
-None yet.
+If the factory interface has not appeared, press BOOT to exit the touchscreen test.
