@@ -32,10 +32,10 @@ Factory firmware (restores the out-of-box demo): download the file whose name co
 
 | Example | Main feature |
 | --- | --- |
+| [01_factory](examples/esp-idf/01_factory/) | Factory demo and touchscreen test |
 | [02_sd_card_test](examples/esp-idf/02_sd_card_test/) | TF card read and write |
 | [03_lvgl_example](examples/esp-idf/03_lvgl_example/) | LVGL display and touch |
 | [04_lvgl_image](examples/esp-idf/04_lvgl_image/) | LVGL image display |
-| [01_factory](examples/factory/) | Factory demo and touchscreen test |
 
 ### Arduino
 

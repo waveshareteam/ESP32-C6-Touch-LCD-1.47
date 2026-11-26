@@ -1,0 +1,29 @@
+# LVGL 8 compatibility for ESP-IDF 5.5's Kconfig-aware dependency resolver.
+# esp_lvgl_port also supports LVGL 9. The resolver evaluates decoder
+# conditions from LVGL 9 candidates even when this project pins LVGL 8.4.
+# A prompt is needed for kconfgen to export disabled booleans to sdkconfig.json.
+
+menu "LVGL 8 dependency compatibility (keep disabled)"
+
+config LV_USE_LIBJPEG_TURBO
+    bool "LVGL 9 JPEG Turbo decoder (unsupported in this project)"
+    default n
+    help
+        Leave disabled. This LVGL 9 decoder is not available in LVGL 8.4.
+        The symbol lets the component manager evaluate optional dependencies.
+
+config LV_USE_LIBPNG
+    bool "LVGL 9 PNG decoder (unsupported in this project)"
+    default n
+    help
+        Leave disabled. This LVGL 9 decoder is not available in LVGL 8.4.
+        The symbol lets the component manager evaluate optional dependencies.
+
+config LV_USE_LZ4
+    bool "LVGL 9 LZ4 decoder (unsupported in this project)"
+    default n
+    help
+        Leave disabled. This LVGL 9 decoder is not available in LVGL 8.4.
+        The symbol lets the component manager evaluate optional dependencies.
+
+endmenu
