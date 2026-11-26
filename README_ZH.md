@@ -63,7 +63,7 @@ ESP32-C6-Touch-LCD-1.47 是一块基于 ESP32-C6FH8 的开发板，集成 1.47 �
 
 - [产品页](https://www.waveshare.com/esp32-c6-touch-lcd-1.47.htm)
 - [Wiki](https://docs.waveshare.net/ESP32-C6-Touch-LCD-1.47/)
-- [原理图](https://files.waveshare.com/wiki/ESP32-C6-Touch-LCD-1.47/ESP32-C6-Touch-LCD-1.47-Schematic.pdf)
+- [原理图（PDF）](hardware/schematic/ESP32-C6-Touch-LCD-1.47-Schematic-20261117.pdf)
 
 ## 🤝 支持
 
